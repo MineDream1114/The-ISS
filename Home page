@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The ISS - PYP Exhibition</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px auto;
+            max-width: 800px;
+            color: #333;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        h2 {
+            color: #7f8c8d;
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        h3 {
+            color: #2980b9;
+            border-bottom: 2px solid #2980b9;
+            padding-bottom: 5px;
+        }
+        .sdg-section {
+            background-color: #f4f6f7;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            border-left: 5px solid #e74c3c;
+        }
+        .sdg-title {
+            font-weight: bold;
+            font-size: 1.2em;
+            margin-top: 0;
+        }
+        .sdg-goal {
+            font-weight: bold;
+            color: #c0392b;
+        }
+        .app-section {
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: #e8f8f5;
+            border-left: 5px solid #1abc9c;
+            border-radius: 8px;
+        }
+        .app-section h4 {
+            margin-top: 0;
+            color: #16a085;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        [span_0](start_span)<h1>The ISS[span_0](end_span)</h1>
+        [span_1](start_span)<h2>PYP Exhibition[span_1](end_span)</h2>
+    </header>
+
+    <main>
+        <section>
+            [span_2](start_span)<h3>What is the ISS?[span_2](end_span)</h3>
+            [span_3](start_span)<p>The ISS is a spaceship made of lots of rockets and spacecrafts connecting together to form a big spacecraft.[span_3](end_span)</p>
+        </section>
+
+        <section>
+            [span_4](start_span)<h3>What SDG does the ISS connect to?[span_4](end_span)</h3>
+
+            <div class="sdg-section">
+                [span_5](start_span)<p class="sdg-title">Gender[span_5](end_span)</p>
+                [span_6](start_span)<p>Because of the ISS, both gender can now go to space if you have the permission to go, whether if you are male or female.[span_6](end_span)</p>
+                [span_7](start_span)<p class="sdg-goal">5 GENDER EQUALITY[span_7](end_span)</p>
+            </div>
+
+            <div class="sdg-section">
+                [span_8](start_span)<p class="sdg-title">Technology[span_8](end_span)</p>
+                [span_9](start_span)<p>Because of the ISS, the technology to go to space has developed in the last few decades really fast and the possibility of more trips will be available.[span_9](end_span)</p>
+                [span_10](start_span)<p class="sdg-goal">9 INDUSTRY, INNOVATION AND INFRASTRUCTURE[span_10](end_span)</p>
+            </div>
+
+            <div class="sdg-section">
+                [span_11](start_span)<p class="sdg-title">Water[span_11](end_span)</p>
+                [span_12](start_span)<p>From the technology of the ISS, it developed an amazing system of making water with atoms and molecules.[span_12](end_span)</p>
+                [span_13](start_span)<p class="sdg-goal">6 CLEAN WATER AND SANITATION[span_13](end_span)</p>
+            </div>
+        </section>
+
+        <section>
+            [span_14](start_span)<h3>How does the ISS help future technology?[span_14](end_span)</h3>
+            [span_15](start_span)<p>The ISS is a man-made spacecraft that was made delicately by NASA.[span_15](end_span) [span_16](start_span)The return of the immense spacecraft is in around the early 2031, which is very close to when the SDG will end.[span_16](end_span) [span_17](start_span)If this huge spacecraft falls down with no trouble on Point Neo (A landing place for spacecrafts that is remote in the Pacific Ocean), it will prove that humans can safely live in space.[span_17](end_span) [span_18](start_span)With this evidence, it will lead the way to visiting to Mars.[span_18](end_span) [span_19](start_span)It will also lead to other big events that will happen in the future maybe.[span_19](end_span)</p>
+        </section>
+
+        <section>
+            [span_20](start_span)<h3>How to watch and learn where the ISS is now[span_20](end_span)</h3>
+
+            <div class="app-section">
+                [span_21](start_span)<h4>Spot The Station[span_21](end_span)</h4>
+                [span_22](start_span)<p>Gaze up into the sky and view the International Space Station.[span_22](end_span) [span_23](start_span)The Spot the Station mobile app is an official NASA app that helps users track and receive notifications toe international Space Stution viewings as it passes over their respective location.[span_23](end_span) [span_24](start_span)also provides real-time tracking, flyovew schedules, and alerts НАДА.[span_24](end_span)</p>
+            </div>
+
+            <div class="app-section">
+                [span_25](start_span)<h4>Real-Time ISS Trackar Map - Salallha Tracker 155 Tracker[span_25](end_span)</h4>
+                [span_26](start_span)<p>155 Tracker Find out where the on Space 15) d many other satents are oated Track every that is in Track stoltes ver The best anteftin baker.[span_26](end_span)</p>
+            </div>
+
+            <div class="app-section">
+                [span_27](start_span)<h4>ISS Live Nowアプリ[span_27](end_span)</h4>
+                [span_28](start_span)<p>Carles Santos 195 Live Now, 5 App Storeでダウンロードしてください。スクリーン ショット、評価とビューコーデのヒント ISS Live Now に ゲームを見ること などができます。[span_28](end_span)</p>
+            </div>
+        </section>
+
+        <section>
+            [span_29](start_span)<h3>Videos about the ISS & SDGs[span_29](end_span)</h3>
+            <ul>
+                [span_30](start_span)<li>THE INTERNATIONAL SPACE STATION[span_30](end_span)</li>
+                [span_31](start_span)<li>JUSTAINABLE DEVELOPMENT SDG[span_31](end_span)</li>
+                [span_32](start_span)<li>SUSTAINABLE DEVELOPMENT GOALS EXPLAINED IN MINUTES ONLESS[span_32](end_span)</li>
+                [span_33](start_span)<li>THE SUSTAINABLE DEVELOPMENT GOALS[span_33](end_span)</li>
+            </ul>
+        </section>
+    </main>
+
+</body>
+</html>
